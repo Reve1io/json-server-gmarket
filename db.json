@@ -1,0 +1,362 @@
+[
+ {
+  "id": 1,
+  "title": "Apple iPhone 12 – 128GB – Blauw",
+  "description": "Apple iPhone 12 – 128GB – Blauw",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/594x1200-1-450x450.jpg",
+  "category": "Smartphones",
+  "brand": "Apple",
+  "price": "€ 572.00",
+  "rating": 5
+ },
+ {
+  "id": 2,
+  "title": "Apple iPhone 12 – 128GB – Groen",
+  "description": "Apple iPhone 12 – 128GB – Groen",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1065x1200-23-450x450.jpg",
+  "category": "Smartphones",
+  "brand": "Apple",
+  "price": "€ 759.00",
+  "rating": 5
+ },
+ {
+  "id": 3,
+  "title": "Apple iPhone 12 – 128GB – Paars",
+  "description": "Apple iPhone 12 – 128GB – Paars",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/595x1200-17-450x450.jpg",
+  "category": "Smartphones",
+  "brand": "Apple",
+  "price": "€ 831.00",
+  "rating": 5
+ },
+ {
+  "id": 4,
+  "title": "Apple iPhone 12 – 128GB – Rood",
+  "description": "Apple iPhone 12 – 128GB – Rood",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x403-14-450x403.jpg",
+  "category": "Smartphones",
+  "brand": "Apple",
+  "price": "€ 794.00",
+  "rating": 5
+ },
+ {
+  "id": 5,
+  "title": "Amazfit GTR 2E",
+  "description": "Amazfit GTR 2E, Slate Gray – GPS – Spo2 meter – smartwatch – ALWAYS-ON Super Retina",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/09\/780x1200-450x450.jpg",
+  "category": "Smartwatches",
+  "brand": "Amazfit",
+  "price": "€ 129.00",
+  "rating": 5
+ },
+ {
+  "id": 6,
+  "title": "Amazfit GTR 3 Pro – 46mm – Zwart",
+  "description": "Amazfit GTR 3 Pro – 46mm – Zwart",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/09\/225x1200-225x450.jpg",
+  "category": "Smartwatches",
+  "brand": "Amazfit",
+  "price": "€ 209.00",
+  "rating": 5
+ },
+ {
+  "id": 7,
+  "title": "Amazfit GTS 3 – Terra Rosa",
+  "description": "Amazfit GTS 3 – Terra Rosa",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/09\/1200x1200-2-450x450.jpg",
+  "category": "Smartwatches",
+  "brand": "Amazfit",
+  "price": "€ 135.00",
+  "rating": 5
+ },
+ {
+  "id": 8,
+  "title": "Amazfit GTS 4 1.75” Ultra Large HD ROZE",
+  "description": "Amazfit GTS 4 1.75” Ultra Large HD ROZE",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/09\/797x1200-450x450.jpg",
+  "category": "Smartwatches",
+  "brand": "Amazfit",
+  "price": "€ 169.00",
+  "rating": 5
+ },
+ {
+  "id": 9,
+  "title": "LG 55NANO766QA – 55 ",
+  "description": "LG 55NANO766QA – 55 inch – 4K NanoCell – 2022",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/09\/583x1200-450x450.jpg",
+  "category": "Televisies",
+  "brand": "LG",
+  "price": "€ 499.00",
+  "rating": 5
+ },
+ {
+  "id": 10,
+  "title": "LG 55QNED866QA – 55",
+  "description": "LG 55QNED866QA – 55 inch – 4K QNED MiniLED – 2022",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/09\/600x1200-9-450x450.jpg",
+  "category": "Televisies",
+  "brand": "LG",
+  "price": "€ 941.00",
+  "rating": 5
+ },
+ {
+  "id": 11,
+  "title": "LG 65QNED916PA – 65 ",
+  "description": "LG 65QNED916PA – 65 inch – 4K QNED MiniLED – 2021",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/09\/590x1200-450x450.jpg",
+  "category": "Televisies",
+  "brand": "LG",
+  "price": "€ 1,349.00",
+  "rating": 5
+ },
+ {
+  "id": 12,
+  "title": "LG CX OLED65CX9LA – 65 ",
+  "description": "LG CX OLED65CX9LA – 65 inch – 4K OLED – 2020",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/09\/622x1200-1-450x450.jpg",
+  "category": "Televisies",
+  "brand": "LG",
+  "price": "€ 1,185.00",
+  "rating": 5
+ },
+ {
+  "id": 13,
+  "title": "DJI Action 2 Dual-Screen ",
+  "description": "DJI Action 2 Dual-Screen Combo – Actioncam",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/09\/1200x1200-317-450x450.jpg",
+  "category": "Videocamera",
+  "brand": "DJI",
+  "price": "€ 280.00",
+  "rating": 5
+ },
+ {
+  "id": 14,
+  "title": "DJI Osmo Action",
+  "description": "DJI Osmo Action",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/09\/1200x753-1-450x450.jpg",
+  "category": "Videocamera",
+  "brand": "DJI",
+  "price": "€ 269.00",
+  "rating": 5
+ },
+ {
+  "id": 15,
+  "title": "DJI Osmo Action 3 ",
+  "description": "DJI Osmo Action 3 – Adventure Combo",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/09\/1200x1200-322-450x450.jpg",
+  "category": "Videocamera",
+  "brand": "DJI",
+  "price": "€ 449.00",
+  "rating": 5
+ },
+ {
+  "id": 16,
+  "title": "GoPro Actioncamera HERO 11 Black",
+  "description": "GoPro Actioncamera HERO 11 Black",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/09\/1200x1148-1-450x450.jpg",
+  "category": "Videocamera",
+  "brand": "GoPro",
+  "price": "€ 399.00",
+  "rating": 5
+ },
+ {
+  "id": 17,
+  "title": "AMD Ryzen 5 3600 – Processor ",
+  "description": "AMD Ryzen 5 3600 – Processor – 3.6 GHz (4.2 GHz) – 6 cores – 12 threads – 35 MB cache – AM4 Socket – MPK – met Wraith Stealth koeler",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x766-2-450x450.jpg",
+  "category": "Processoren",
+  "brand": "AMD",
+  "price": "€ 119.00",
+  "rating": 5
+ },
+ {
+  "id": 18,
+  "title": "AMD Ryzen 7 5700G",
+  "description": "AMD Ryzen 7 5700G",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x873-9-450x450.jpg",
+  "category": "Processoren",
+  "brand": "AMD",
+  "price": "€ 189.00",
+  "rating": 5
+ },
+ {
+  "id": 19,
+  "title": "AMD Ryzen 9 5900X processor ",
+  "description": "AMD Ryzen 9 5900X processor 3,7 GHz 64 MB L3",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x1136-2-450x450.jpg",
+  "category": "Processoren",
+  "brand": "AMD",
+  "price": "€ 343.00",
+  "rating": 5
+ },
+ {
+  "id": 20,
+  "title": "INTEL – Intel Core i5-11600 processor ",
+  "description": "INTEL – Intel Core i5-11600 processor – 6 cores \/ 4,8 GHz – Socket 1200 – 65W",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x1174-6-450x450.jpg",
+  "category": "Processoren",
+  "brand": "INTEL",
+  "price": "€ 319.00",
+  "rating": 5
+ },
+ {
+  "id": 21,
+  "title": "INTEL – Intel Core i9-11900F processor ",
+  "description": "INTEL – Intel Core i9-11900F processor – 8 cores \/ 5,2 GHz – Socket 1200 – 65W",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x1194-9-450x450.jpg",
+  "category": "Processoren",
+  "brand": "INTEL",
+  "price": "€ 327.00",
+  "rating": 5
+ },
+ {
+  "id": 22,
+  "title": "Intel Core i5 10600K ",
+  "description": "Intel Core i5 10600K – 4.1 GHz – 6-kern – 12 threads – 12 MB cache – LGA1200 Socket – doos",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x1167-5-450x450.jpg",
+  "category": "Processoren",
+  "brand": "INTEL",
+  "price": "€ 223.00",
+  "rating": 5
+ },
+ {
+  "id": 23,
+  "title": "Intel Core i7 10700 ",
+  "description": "Intel Core i7 10700 – 2.9 GHz – 8-kern – 16 threads – 16 MB cache – LGA1200 Socket – doos",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x667-11-450x450.jpg",
+  "category": "Processoren",
+  "brand": "INTEL",
+  "price": "€ 273.00",
+  "rating": 5
+ },
+ {
+  "id": 24,
+  "title": "Lenovo Legion Pro 5 ",
+  "description": "Lenovo Legion Pro 5 16ARX8 (82WM004XMH) – Gaming Laptop – 16 inch",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1123x1200-7-450x450.jpg",
+  "category": "Laptops",
+  "brand": "Lenovo",
+  "price": "€ 2,149.00",
+  "rating": 5
+ },
+ {
+  "id": 25,
+  "title": "Lenovo LOQ 15APH8 ",
+  "description": "Lenovo LOQ 15APH8 82XT009BMH – Gaming Laptop – 15.6 inch – 144 Hz",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x776-2-450x450.jpg",
+  "category": "Laptops",
+  "brand": "Lenovo",
+  "price": "€ 1,099.00",
+  "rating": 5
+ },
+ {
+  "id": 26,
+  "title": "Lenovo LOQ 15IRH8 ",
+  "description": "Lenovo LOQ 15IRH8 – Gaming Laptop – 15.6 inch -144 Hz",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x983-6-450x450.jpg",
+  "category": "Laptops",
+  "brand": "Lenovo",
+  "price": "€ 1,159.00",
+  "rating": 5
+ },
+ {
+  "id": 27,
+  "title": "Lenovo Legion Pro 7 ",
+  "description": "Lenovo Legion Pro 7 16IRX8H 82WQ006EMH – Gaming Laptop – 16 inch – 240 Hz",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/906x1200-6-450x450.jpg",
+  "category": "Laptops",
+  "brand": "Lenovo",
+  "price": "€ 3,349.00",
+  "rating": 5
+ },
+ {
+  "id": 28,
+  "title": "Lenovo Legion Slim 5 ",
+  "description": "Lenovo Legion Slim 5 16APH8 82Y9008NMH – Gaming Laptop – 16 inch – 165Hz",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x776-4-450x450.jpg",
+  "category": "Laptops",
+  "brand": "Lenovo",
+  "price": "€ 1,369.00",
+  "rating": 5
+ },
+ {
+  "id": 29,
+  "title": "MSI Alpha 17 ",
+  "description": "MSI Alpha 17 C7VF-012NL – Gaming Laptop – 17.3 inch – 240 Hz",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x848-10-450x450.jpg",
+  "category": "Laptops",
+  "brand": "MSI ",
+  "price": "€ 2,399.00",
+  "rating": 5
+ },
+ {
+  "id": 30,
+  "title": "MSI Cyborg 15 ",
+  "description": "MSI Cyborg 15 A12VE-298NL – Gaming Laptop – 15.6 inch – 144 Hz",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x806-12-450x450.jpg",
+  "category": "Laptops",
+  "brand": "MSI ",
+  "price": "€ 1,349.00",
+  "rating": 5
+ },
+ {
+  "id": 31,
+  "title": "MSI Gaming GE66 ",
+  "description": "MSI Gaming GE66 11UG-205NL Raider – Gaming Laptop – 15.6 inch – QHD – 240 Hz",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x607-1-450x450.jpg",
+  "category": "Laptops",
+  "brand": "MSI ",
+  "price": "€ 1,814.00",
+  "rating": 5
+ },
+ {
+  "id": 32,
+  "title": "MSI GF63 Thin 11UC GAMING – 15.6″ ",
+  "description": "MSI GF63 Thin 11UC GAMING – 15.6″ FHD IPS 144Hz – i7-11800H – RTX 3050 4GB – 16GB DDR4 – 512GB M.2 SSD – W11 Pro",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x747-2-450x450.jpg",
+  "category": "Laptops",
+  "brand": "MSI ",
+  "price": "€ 1,016.00",
+  "rating": 5
+ },
+ {
+  "id": 33,
+  "title": "MSI GF63 Thin 11UC-875NL ",
+  "description": "MSI GF63 Thin 11UC-875NL – Gaming Laptop – 15.6 inch – 144Hz",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x713-17-450x450.jpg",
+  "category": "Laptops",
+  "brand": "MSI ",
+  "price": "€ 929.00",
+  "rating": 5
+ },
+ {
+  "id": 34,
+  "title": "MSI Katana 17 B12UCXK-009NL ",
+  "description": "MSI Katana 17 B12UCXK-009NL – Gaming Laptop – 17.3 inch – 144Hz",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x795-4-450x450.jpg",
+  "category": "Laptops",
+  "brand": "MSI ",
+  "price": "€ 1,149.00",
+  "rating": 5
+ },
+ {
+  "id": 35,
+  "title": "MSI Katana GF66 11UE-891LU",
+  "description": "MSI Katana GF66 11UE-891LU",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/609x1200-1-450x450.jpg",
+  "category": "Laptops",
+  "brand": "MSI ",
+  "price": "€ 1,559.00",
+  "rating": 5
+ },
+ {
+  "id": 36,
+  "title": "MSI Pulse 15 B13VGK-1280NL ",
+  "description": "MSI Pulse 15 B13VGK-1280NL – Gaming Laptop – 15.6 inch – 144 Hz",
+  "img": "https:\/\/hunu.nl\/wp-content\/uploads\/2023\/08\/1200x776-7-450x450.jpg",
+  "category": "Laptops",
+  "brand": "MSI ",
+  "price": "€ 1,649.00",
+  "rating": 5
+ }
+]
